@@ -1,2 +1,2 @@
-# ENCRYPTIX
-Machine learning Internship
+# Black bucks
+AI and Machine learning Internship
